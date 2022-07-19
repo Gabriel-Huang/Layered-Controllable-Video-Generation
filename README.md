@@ -1,3 +1,5 @@
 # Layered-Controllable-Video-Generation
 
-code will be released soon!!! sorry for the delay!
+Code base cleaning in progress... sorry for the delay!
+
+P.S. if you want the uncleaned version, please open an issue in this repo and I will get in touch!
