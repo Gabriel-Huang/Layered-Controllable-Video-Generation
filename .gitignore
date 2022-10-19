@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+/logs
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+data_txts/*
+nohup*
+evaluation_results/
+wandb/
+test_results/*
+paper/*
+*onnx
+*.pt
+build/
+checkpoints/*
+dist/
+controllable_video_gen.egg-info/
