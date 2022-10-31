@@ -63,12 +63,10 @@ Those are the steps to follow to make this work:
 ## BibTeX
 
 ```
-@misc{huang2020control,
-      title={Taming Transformers for High-Resolution Image Synthesis}, 
-      author={Jiahui Huang and Yuhe Jin and Kwang Moo Yi and Leonid Sigal},
-      year={2022},
-      eprint={2111.12747},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{Huang2022LayeredCV,
+  title={Layered Controllable Video Generation},
+  author={Jiahui Huang and Yuhe Jin and Kwang Moo Yi and Leonid Sigal},
+  booktitle={ECCV},
+  year={2022}
 }
 ```
