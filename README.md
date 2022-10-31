@@ -1,5 +1,5 @@
 # Layered Controllable Video Generation 
-[Jiahui (Gabriel) Huang](https://scholar.google.com/citations?user=qWU4y1wAAAAJ&hl=en),
+[Jiahui (Gabriel) Huang](https://gabriel-huang.github.io/),
 [Yuhe Jin](https://scholar.google.ca/citations?user=oAYi1YQAAAAJ&hl=en),
 [Kwang Moo Yi](https://scholar.google.com/citations?user=pr6rIJEAAAAJ&hl=en),
 [Leonid Sigal](https://scholar.google.com/citations?user=P2mG6rcAAAAJ&hl=en)<br/>
